@@ -3,18 +3,18 @@ Rating:
 <i class="fas fa-heart"></i>
 
 Page:
-https://www.kickstarter.com/projects/nonscamera/sl645-interchangeable-lens-slr-analogue-instant-camera?ref=section-design-tech-view-more-discovery-p2
+https://www.kickstarter.com/projects/chefdoodler/chefdoodler-the-sugar-pen-for-the-modern-baker?ref=section-design-tech-featured-project
 
 Product: 
-https://ksr-ugc.imgix.net/assets/038/958/192/42d97993010fe2f7795ba255c7deda1d_original.jpeg?ixlib=rb-4.0.2&w=680&fit=max&v=1666165204&gif-q=50&q=92&s=ef79058e6a460875a37c69c84f228c33
+https://ksr-ugc.imgix.net/assets/040/762/483/e6d21c4d8ddf1c057dcbf52cd837e934_original.png?ixlib=rb-4.0.2&w=680&fit=max&v=1682696319&gif-q=50&lossless=true&s=e502cced6c773cc9dcd4e7099cec56de
 
 Video:
-https://v2.kickstarter.com/1669429620-pe0g3sJT22LJkytvqkGnOdBluNNgGn07chXtdA%2BMbqY%3D/projects/4449692/video-1194052-h264_high.mp4
+https://v2.kickstarter.com/1685772989-WLDqf1LqXc13hJorAGgqkGbczvRJc6mZnz%2BuhqUBytc%3D/projects/4088779/video-1226215-h264_high.mp4
 
 Images:
 
-https://ksr-ugc.imgix.net/assets/038/943/266/f5df0ab575492d575b72d49b0fcda3cd_original.gif?ixlib=rb-4.0.2&w=680&fit=max&v=1666063215&gif-q=50&q=92&s=d3024624e4f9d2f733768ad08d8e9182
+https://ksr-ugc.imgix.net/assets/040/806/997/52355bb2bf9972d96608fda5e7fe1fa9_original.gif?ixlib=rb-4.0.2&w=680&fit=max&v=1683056206&gif-q=50&q=92&s=1fb8aa01b87f1e5dd488ecd5bc388ddd
 
-https://ksr-ugc.imgix.net/assets/038/970/233/c7eec3b3329d89ca534e7d4bdddc9ee9_original.jpg?ixlib=rb-4.0.2&w=680&fit=max&v=1666249747&gif-q=50&q=92&s=c369bac0ff8e26009148e152e70abd7f
+https://ksr-ugc.imgix.net/assets/040/981/846/fb8390fe27bee6911d6febdc55203553_original.gif?ixlib=rb-4.0.2&w=680&fit=max&v=1684348361&gif-q=50&q=92&s=cc9de16850f8d63ac1b75660ff09b41b
 
-https://ksr-ugc.imgix.net/assets/038/958/132/6a3474a43d014fb13ace53eee970f581_original.jpeg?ixlib=rb-4.0.2&w=680&fit=max&v=1666164793&gif-q=50&q=92&s=f24b5d366180500eecce1e42a19f1f4f
+https://ksr-ugc.imgix.net/assets/040/680/259/68b4ad052492b45dd4a248ce356f5e4b_original.jpg?ixlib=rb-4.0.2&w=680&fit=max&v=1682097022&gif-q=50&q=92&s=aff201d06488ef560e52844791e6ab35
